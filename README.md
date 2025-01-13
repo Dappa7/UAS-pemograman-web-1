@@ -1,2 +1,2 @@
-# UAS-pemograman-web-1
+# UAS-pemograman-web
 Tugas UAS membuat Web CRUD
